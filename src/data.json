@@ -1,0 +1,92 @@
+[
+    {
+        "img": "../images/img-blog1.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "OCT. 29 2020",
+        "badgeName": "TRENDS",
+        "color": "#b2cc71",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog2.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "NOV. 02 2020",
+        "badgeName": "SERVICES",
+        "color": "#fd3635",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog3.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "NOV. 05 2020",
+        "badgeName": "SEO",
+        "color": "#3DACE1",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog4.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "OCT. 02 2020",
+        "badgeName": "CONTENT",
+        "color": " #a85ad4",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog5.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "NOV. 02 2020",
+        "badgeName": "TIPS",
+        "color": "#b2cc71",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog6.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "NOV. 08 2020",
+        "badgeName": "SEO",
+        "color": "#fd3635",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog7.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "NOV. 03 2020",
+        "badgeName": "SOCIAL",
+        "color": "#a85ad4",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog8.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "NOV. 04 2020",
+        "badgeName": "PRIVACY",
+        "color": "#fd3635",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    },
+    {
+        "img": "../images/img-blog1.jpg",
+        "img1": "../images/logo_main.png",
+        "name": "Glassberry",
+        "date": "OCT. 29 2020",
+        "badgeName": "TRENDS",
+        "color": "#b2cc71",
+        "heading": "The Trends and Transformations of Google Ads in the past 5 years",
+        "details": "It’s been 20 years for Google ads. We recorded the evolution of the AdWords into a $60 billion business at its 15 years of a milestone."
+    }
+]
